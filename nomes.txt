@@ -3,3 +3,6 @@ Eduardo
 Mauricio
 Ana
 Luiz
+Maria
+José
+João
